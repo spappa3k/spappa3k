@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @spappa3k
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Angular
+- 👀 Angular expert
 - ⚡ Fun fact: I made a videogame called Cactus Be Hero, and you can find some files here on my GitHub :D
 
 <!---
